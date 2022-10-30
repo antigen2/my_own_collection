@@ -1,0 +1,6 @@
+---
+# tasks file for my_own_module
+- name: Create file
+  antigen2.tools.file_content:
+    path: "{{ test_file }}"
+    content: "{{ test_content }}"

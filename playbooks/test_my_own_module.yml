@@ -1,0 +1,5 @@
+---
+- name: Test file content role
+  hosts: localhost
+  roles:
+    - antigen2.tools.my_own_modoule

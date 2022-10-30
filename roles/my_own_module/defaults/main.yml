@@ -1,0 +1,5 @@
+---
+# defaults file for my_own_module
+
+test_file: test_file
+test_content: test data
